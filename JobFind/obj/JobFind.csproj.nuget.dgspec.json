@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qarib\\Desktop\\Yeni klasör\\JobFind\\JobFind.csproj": {}
+    "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\JobFind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qarib\\Desktop\\Yeni klasör\\JobFind\\JobFind.csproj": {
+    "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\JobFind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qarib\\Desktop\\Yeni klasör\\JobFind\\JobFind.csproj",
+        "projectUniqueName": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\JobFind.csproj",
         "projectName": "JobFind",
-        "projectPath": "C:\\Users\\Qarib\\Desktop\\Yeni klasör\\JobFind\\JobFind.csproj",
+        "projectPath": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\JobFind.csproj",
         "packagesPath": "C:\\Users\\Qarib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qarib\\Desktop\\Yeni klasör\\JobFind\\obj\\",
+        "outputPath": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qarib\\AppData\\Roaming\\NuGet\\NuGet.Config",

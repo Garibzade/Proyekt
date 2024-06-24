@@ -66,17 +66,17 @@
                                 </div>
                                 <!-- Header-btn -->
                                 <div class="header-btn d-none f-right d-lg-block">
-                                    @if(User.Identity.IsAuthenticated)
+                                    @if (User.Identity.IsAuthenticated)
                                     {
                                         <span>@User.Identity.Name</span>
-                                        <a asp-area="default" asp-controller="Account" asp-action="SignOut">Log out</a>
+                                        <a asp-area="default" asp-controller="Account" asp-action="Logout" class="btn head-btn1">Log out</a>
                                     }
                                     else
                                     {
-                                        
-                                       <a asp-controller="Account" asp-action="Register" class="btn head-btn1">Register</a>
+                                        <a asp-controller="Account" asp-action="Register" class="btn head-btn1">Register</a>
                                         <a asp-controller="Account" asp-action="Login" class="btn head-btn2">Login</a>
                                     }
+                                    
                                 </div>
                             </div>
                         </div>

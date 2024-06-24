@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7EYAxcBHx8wtHz4NV/K+ugg/L23mW2tmRGn9Ql+2Q34XwT+y5YXgTjP/i4US/FzDRViH1TG2r8jatk8MbOpHJA==",
+  "dgSpecHash": "kGMTZE3rIPCW3WQMFuCm00nzz4bI5fNlbBgH2fgEEwXHltwS6BuUkxtYAAt+PwbKHSZhKCVqgCowQtw0yDl76w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qarib\\Desktop\\Yeni klasör\\JobFind\\JobFind.csproj",
+  "projectFilePath": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\JobFind.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qarib\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Qarib\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

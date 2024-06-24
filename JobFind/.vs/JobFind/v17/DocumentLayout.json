@@ -1,93 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\",
+  "WorkspaceRootPath": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|c:\\users\\qarib\\desktop\\yeni klas\u00F6r\\jobfind\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\dal\\jobfindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:dal\\jobfindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|c:\\users\\qarib\\desktop\\yeni klas\u00F6r\\jobfind\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|c:\\users\\qarib\\desktop\\yeni klas\u00F6r\\jobfind\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|c:\\users\\qarib\\desktop\\yeni klas\u00F6r\\jobfind\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\migrations\\20240617184938_crearedb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:migrations\\20240617184938_crearedb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|c:\\users\\qarib\\desktop\\yeni klas\u00F6r\\jobfind\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|c:\\users\\qarib\\desktop\\proyekt\\jobfind\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\viewmodel\\category\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\helpers\\accounthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:helpers\\accounthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\dal\\jobfindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:dal\\jobfindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\migrations\\20240617184938_crearedb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:migrations\\20240617184938_crearedb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\viewmodel\\category\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:viewmodel\\category\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\viewmodel\\category\\editcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\viewmodel\\category\\editcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:viewmodel\\category\\editcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\viewmodel\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\viewmodel\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:viewmodel\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\viewmodel\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\viewmodel\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:viewmodel\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{922605FE-C1EB-4C59-A4AD-AE66B421172D}|JobFind.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -98,80 +110,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "DocumentIndex": 3,
+              "Title": "AccountHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Helpers\\AccountHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\AccountHelper.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Helpers\\AccountHelper.cs",
+              "RelativeToolTip": "Helpers\\AccountHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:00:52.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T06:22:57.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "DocumentIndex": 5,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Enums\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "Enums\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:43:52.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T13:31:09.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JobController.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\JobController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JobController.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\JobController.cs",
-              "RelativeToolTip": "Controllers\\JobController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwD4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:04:07.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T13:27:17.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JobFindContext.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\DAL\\JobFindContext.cs",
-              "RelativeDocumentMoniker": "DAL\\JobFindContext.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\DAL\\JobFindContext.cs",
-              "RelativeToolTip": "DAL\\JobFindContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwGgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T22:14:31.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "Controllers\\AboutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:51:48.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T05:39:56.439Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:51:48.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobFindContext.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\DAL\\JobFindContext.cs",
+              "RelativeDocumentMoniker": "DAL\\JobFindContext.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\DAL\\JobFindContext.cs",
+              "RelativeToolTip": "DAL\\JobFindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:14:31.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\JobController.cs",
+              "RelativeToolTip": "Controllers\\JobController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:04:07.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:43:52.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:00:52.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "GetCategoryAdminVM.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\GetCategoryAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\GetCategoryAdminVM.cs",
               "RelativeDocumentMoniker": "ViewModel\\Category\\GetCategoryAdminVM.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\GetCategoryAdminVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\GetCategoryAdminVM.cs",
               "RelativeToolTip": "ViewModel\\Category\\GetCategoryAdminVM.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,89 +234,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Program.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA0AAABBAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:37:09.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T15:37:09.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAcwEwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T05:39:56.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T05:40:19.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T05:40:19.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AQIAACgAAAAAAAAAAAAAACcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T14:49:26.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T14:49:26.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAtwEcAAABVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T15:01:50.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T15:01:50.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T18:59:01.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T18:59:01.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "EditCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\EditCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\EditCategoryVM.cs",
               "RelativeDocumentMoniker": "ViewModel\\Category\\EditCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\EditCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\EditCategoryVM.cs",
               "RelativeToolTip": "ViewModel\\Category\\EditCategoryVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,11 +306,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -281,24 +318,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "20240617184938_Crearedb2.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Migrations\\20240617184938_Crearedb2.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Migrations\\20240617184938_Crearedb2.cs",
               "RelativeDocumentMoniker": "Migrations\\20240617184938_Crearedb2.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Migrations\\20240617184938_Crearedb2.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Migrations\\20240617184938_Crearedb2.cs",
               "RelativeToolTip": "Migrations\\20240617184938_Crearedb2.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T18:49:38.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T18:49:38.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CreateCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\CreateCategoryVM.cs",
               "RelativeDocumentMoniker": "ViewModel\\Category\\CreateCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\CreateCategoryVM.cs",
               "RelativeToolTip": "ViewModel\\Category\\CreateCategoryVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -306,23 +342,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAMAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T19:05:51.683Z"
+              "WhenOpened": "2024-06-17T19:05:51.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -330,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "GetCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\GetCategoryVM.cs",
               "RelativeDocumentMoniker": "ViewModel\\Category\\GetCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ViewModel\\Category\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ViewModel\\Category\\GetCategoryVM.cs",
               "RelativeToolTip": "ViewModel\\Category\\GetCategoryVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,11 +379,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAIUBAAAAAAAAAAApwMYBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -354,11 +391,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -366,11 +403,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Models\\Job.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Models\\Job.cs",
               "RelativeDocumentMoniker": "Models\\Job.cs",
-              "ToolTip": "C:\\Users\\Qarib\\Desktop\\Yeni klas\u00F6r\\JobFind\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\PROYEKT\\JobFind\\Models\\Job.cs",
               "RelativeToolTip": "Models\\Job.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA5wAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

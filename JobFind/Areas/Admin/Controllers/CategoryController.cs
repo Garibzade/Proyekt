@@ -1,6 +1,7 @@
 ﻿using JobFind.DAL;
 using JobFind.Models;
 using JobFind.ViewModel.Category;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Hosting;
@@ -9,6 +10,7 @@ using NuGet.Protocol;
 namespace JobFind.Areas.Admin.Controllers
 {
         [Area("Admin")]
+    [Authorize(Roles ="Admin")]
     public class CategoryController(JobFindContext _context,IWebHostEnvironment environment) : Controller
     {
         public IWebHostEnvironment Environment { get; } = environment;
@@ -36,7 +38,7 @@ namespace JobFind.Areas.Admin.Controllers
 
         public async Task<IActionResult> Create(CreateCategoryVM CreateVM)
         {
-           if (CreateVM.IconFile == null) 
+           if (CreateVM.IconFile != null) 
             {
                 ModelState.AddModelError("IconFile", "The Icon file is required");
             }
@@ -57,13 +59,15 @@ namespace JobFind.Areas.Admin.Controllers
             {
                 Icon = NewFileName,
                 Name = NewFileName,
+                JobCount=1,
+                
                 
             };
             _context.Categories.Add(category);
             _context.SaveChanges();
 
 
-            return RedirectToAction("Index");
+            return RedirectToAction(nameof(Index));
         }
 
         public async Task<IActionResult> Edit(int? Id)
@@ -80,14 +84,16 @@ namespace JobFind.Areas.Admin.Controllers
             var EditVM = new EditCategoryVM()
             {
                 Name = category.Name,
-                //IconFile = category.Icon,
+                IconFile=null,
+               
+                
 
             };
 
 
             return View(EditVM);
         }
-
+        [HttpPost]  
         public async Task<IActionResult> Edit(int? id,EditCategoryVM editCategoryVM)
         {
             if (id<=0)
